@@ -1,3 +1,3 @@
 # Calculator
 
-A web-based calculator using HTML and CSS allows users to perform basic arithmetic operations. HTML structures the layout, while CSS styles the buttons and display, ensuring a responsive, user-friendly design.
+This code creates a basic calculator with number buttons, operator buttons (+, -, *, /), a clear button (C), and an equals button (=). The JavaScript code handles the user's input, updates the display, and performs the calculations using the eval() function. The CSS file would style the calculator's appearance.
